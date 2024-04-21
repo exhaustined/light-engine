@@ -7,3 +7,8 @@ A simple Pygame light ray simulator. Watch the rays spread out from your cursor 
 * Reflect: Left-click to toggle reflections
 * Rotate: Space to rotate the light rays for some trippy effects :)
 * Increase/decrease rays: Use the scroll wheel to change the ray count
+
+# Installation
+You will need Python and the pygame library
+
+Install pygame `pip install pygame`
