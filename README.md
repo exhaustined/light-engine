@@ -9,7 +9,8 @@ A simple Pygame light ray simulator. Watch the rays spread out from your cursor 
 * Increase/decrease rays: Use the scroll wheel to change the ray count
 
 # Installation
-You will need Python and the pygame library 
-Download the files 
-Install pygame `pip install pygame` 
-Run `main.py` 
+You will need Python and the pygame library  
+* Download the files  
+* Install Python  
+* Install pygame `pip install pygame`  
+* Run `main.py` 
