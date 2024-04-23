@@ -8,6 +8,7 @@ A simple Pygame light ray simulator. Watch the rays spread out from your cursor 
 * Reflect: Left-click to toggle reflections
 * Rotate: Space to rotate the light rays for some trippy effects :)
 * Dim: D to simulate the decrease in intensity of light after a certain number of reflections
+* Increase/decrease dim rate: Adjust after how many bounces the ray should reduce in brightness. Left/Right arrows
 * Increase/decrease rays: Use the scroll wheel to change the ray count
 * Change rotation speed: Up/Down arrows
 * Change light colours: C
