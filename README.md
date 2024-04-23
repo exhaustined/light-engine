@@ -4,13 +4,14 @@
 
 A simple Pygame light ray simulator. Watch the rays spread out from your cursor and interact with the objects.
 
-* Draw obstacles: Right-click and drag the mouse to create obstacles that light rays will interact with.
-* Reflect: Left-click to toggle reflections
-* Rotate: Space to rotate the light rays for some trippy effects :)
-* Dim: D to simulate the decrease in intensity of light after a certain number of reflections
-* Increase/decrease dim rate: Adjust after how many bounces the ray should reduce in brightness. Left/Right arrows
-* Increase/decrease rays: Use the scroll wheel to change the ray count
-* Change rotation speed: Up/Down arrows
+## Controls
+* Draw obstacles: Right-click and drag the mouse to **_create obstacles_** that light rays will interact with.
+* Reflect: Left-click to toggle **_reflections_**
+* Rotate: Space to **_rotate_** the light rays for some trippy effects :)
+* Dim: D to simulate the **_decrease in intensity_** of light after a certain number of reflections
+* Increase/decrease dim rate: Adjust after **_how many bounces_** the ray should reduce in brightness. Left/Right arrows
+* Increase/decrease rays: Use the scroll wheel to change the **_ray count_**
+* Change rotation speed: Up/Down arrows to adjust **_rotation speed_**
 * Change light colours: C
 
 
