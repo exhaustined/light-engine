@@ -1,5 +1,6 @@
 # lightengine
 ## 2D Ray Tracing with Light and Reflection Simulation 
+![ezgif-7-f4ce1df5e1](https://github.com/exhaustined/light-engine/assets/74151370/983aa7a5-b50b-48e0-b26b-7beff26f7cb0)
 
 A simple Pygame light ray simulator. Watch the rays spread out from your cursor and interact with the objects.
 
