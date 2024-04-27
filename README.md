@@ -13,7 +13,9 @@ A simple Pygame light ray simulator. Watch the rays spread out from your cursor 
 * Increase/decrease rays: Use the scroll wheel to change the **_ray count_**
 * Change rotation speed: Up/Down arrows to adjust **_rotation speed_**
 * Change light colours: C
-
+  
+![3](https://github.com/exhaustined/light-engine/assets/74151370/42b883c0-9428-48ad-b3ee-cf860ef8ff68)
+![ezgif-7-7f23a64878](https://github.com/exhaustined/light-engine/assets/74151370/aacc0890-9f77-4042-8442-c47da49a09b6)
 
 # Installation
 You will need Python and the pygame library  
